@@ -1,0 +1,10 @@
+/bin/
+/build/
+/results/reproduced/
+__pycache__/
+*.pyc
+*.vcd
+*.fsdb
+*.db
+*.ddc
+.DS_Store

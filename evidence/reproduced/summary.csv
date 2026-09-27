@@ -1,0 +1,6 @@
+condition,label,trials,recovered,plaintexts,mean_search_space_bits,max_dfs_evaluations
+1,full_K4,10,10,65,10.98441637507865,1383657
+2,full_K8,10,10,129,0.0,1
+3,partial_50pct_K8,10,10,129,0.0,1
+4,signature_noise_1pct_K8,10,10,129,4.0,26684
+5,selected_16_taps_K12,10,10,193,8.71894750100962,11979

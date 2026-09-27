@@ -1,0 +1,10 @@
+./bin/tests
+PASS fips197_known_answer
+PASS checkpoint_sequence
+PASS signature_equivalences
+PASS key_byte_vote
+PASS anonymous_permutation
+PASS stage_filter
+PASS uninformative_candidate_size
+PASS diffusion_histogram
+make: `bin/test_hybrid' is up to date.

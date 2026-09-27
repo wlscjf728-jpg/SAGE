@@ -1,0 +1,9 @@
+# Keep copied research files byte-identical even with core.autocrlf enabled.
+* -text
+*.csv whitespace=cr-at-eol
+# Preserve historical whitespace and raw output; lint new scripts/docs normally.
+src/** -whitespace
+include/** -whitespace
+tests/** -whitespace
+docs/original_synthetic_results.md -whitespace
+evidence/** -whitespace
